@@ -2,10 +2,15 @@
 
 ---
 
-### Category Name 1 
+### Score Crediticio
 
-[Project 1 Title](/sample_page)
+Description about credit score
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[View code on Colab](https://colab.research.google.com/drive/18Lr0uC_m3-D67yg409WtYiXy0yh05TYu)
+
+[View code on Colab](https://drive.google.com/file/d/18Lr0uC_m3-D67yg409WtYiXy0yh05TYu/view?usp=share_link)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
