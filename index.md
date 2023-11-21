@@ -23,14 +23,6 @@ Description 2
 [View code on Colab](https://colab.research.google.com/drive/18Lr0uC_m3-D67yg409WtYiXy0yh05TYu)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ## Skills-based projects
 A selection of smaller projects demonstrating specific Python skills.
@@ -39,7 +31,6 @@ A selection of smaller projects demonstrating specific Python skills.
 
 Google has ended the unlimited storage it offered to all universities and educational institutions in the world through Google Workspace for Education accounts. Therefore, we have been forced to backup our files currently saved on the Google cloud. In this case, when we download our data from Google Photos through the Google Takeout platform (https://takeout.google.com) the files come with "creation date" and "modification date" equal to the date and time of the download, which prevents us from maintaining a local order of these files by the actual creation date of the files (photos/videos). The actual "creation date" and "modification date" are contained in a JSON file along with the files. The goal of this project is to read these JSON files to get the date and time of the file creation, then write this information to the downloaded photos and videos themselves.
 
-- [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 
 
