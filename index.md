@@ -1,8 +1,10 @@
-## Selected projects in data science
+## Portfolio
 
 ---
 
-### Credit score classification
+### Data Science
+
+[Credit score classification](https://colab.research.google.com/drive/18Lr0uC_m3-D67yg409WtYiXy0yh05TYu)
 
 Over the years, the company has collected basic banking data and a lot of credit-related information from its customers. The aim is to segregate people into credit score brackets to reduce manual efforts. Therefore, I have used that information to create a machine learning model that can classify the credit score.
 
@@ -39,7 +41,9 @@ Google has ended the unlimited storage it offered to all universities and educat
 
 ---
 
+### Publications
 
+[Assessing the impact of field-measurement on the design of Spectrum Sensing WSN - IEEE LATINCOM 2023](https://drive.google.com/file/d/182KkbtRE4h7gb2m1Zlg4xuCAcHruUqb9/view?usp=share_link)
 
 
 ---
