@@ -16,9 +16,7 @@ Over the years, the company has collected basic banking data and a lot of credit
 
 ### Project nro 2
 
-Google has ended the unlimited storage it offered to all universities and educational institutions in the world through Google Workspace for Education accounts.
-Therefore, we have been forced to backup our personal files currently saved on the Google cloud. In this case, we have downloaded our Google Photos files through the Google Takeout platform (https://takeout.google.com). Unfortunately the files come with "creation date" and "modification date" equal to the date and time of the download, which prevents us from maintaining a local order of these files by the actual creation date of the files (photos/videos). The actual "creation date" and "modification date" are contained in a JSON file along with the files.
-The goal of this code is to read these JSON files to get the date and time of the file creation, then write this information to the downloaded photos and videos themselves.
+Description 2
 
 <img src="images/credit-score-icon.jpg?raw=true"/>
 
@@ -37,7 +35,9 @@ The goal of this code is to read these JSON files to get the date and time of th
 ## Skills-based projects
 A selection of smaller projects demonstrating specific Python skills.
 
-- [Correcting the "modification date" of photos and videos downloaded from Google Photos](Correcting the "modification date" of photos and videos downloaded from Google Photos)
+- [Correcting the "modification date" of photos and videos downloaded from Google Photos](https://colab.research.google.com/drive/1x-I-NCxCEEKX8hj4aYxYehmRY3PYjOOV)
+
+Google has ended the unlimited storage it offered to all universities and educational institutions in the world through Google Workspace for Education accounts. Therefore, we have been forced to backup our files currently saved on the Google cloud. In this case, when we download our data from Google Photos through the Google Takeout platform (https://takeout.google.com) the files come with "creation date" and "modification date" equal to the date and time of the download, which prevents us from maintaining a local order of these files by the actual creation date of the files (photos/videos). The actual "creation date" and "modification date" are contained in a JSON file along with the files. The goal of this project is to read these JSON files to get the date and time of the file creation, then write this information to the downloaded photos and videos themselves.
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
