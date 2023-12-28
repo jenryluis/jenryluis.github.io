@@ -26,7 +26,7 @@ Over the years, the company has collected basic banking data and a lot of credit
 
 ---
 
-### Correcting the "modification date" of photos and videos downloaded from Google Photos using Python
+### Using Python to correct the "modification date" of photos and videos downloaded from Google Photos
 
 Google has ended the unlimited storage it offered to all universities and educational institutions in the world through Google Workspace for Education accounts. Therefore, we have been forced to backup our files currently saved on the Google cloud. In this case, when we download our data from Google Photos through the Google Takeout platform (https://takeout.google.com) the files come with "creation date" and "modification date" equal to the date and time of the download, which prevents us from maintaining a local order of these files by the actual creation date of the files (photos/videos). The actual "creation date" and "modification date" are contained in a JSON file along with the files. The goal of this project is to read these JSON files to get the date and time of the file creation, then write this information to the downloaded photos and videos themselves.
 
