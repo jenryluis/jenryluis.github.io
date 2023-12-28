@@ -2,7 +2,7 @@
 
 ---
 
-### Customer segmentation in online retail
+### Customer segmentation in online retail using K-Means, hierarchical clustering and affinity propagation algorithms
 
 A company that sells some of the product, and you want to know how well does the selling performance of the product. You have the data that can we analyze, but what kind of analysis that we can do? Well, we can segment customers based on their buying behavior on the market. Keep in mind that the data is really huge, and we can not analyze it using our bare eyes. We will use machine learning algorithms and the power of computing for it.
 
@@ -14,7 +14,7 @@ A company that sells some of the product, and you want to know how well does the
 
 ---
 
-### Credit score classification
+### Credit score classification exploring the hyperparameters space for a RandomForestClassifier
 
 Over the years, the company has collected basic banking data and a lot of credit-related information from its customers. The aim is to segregate people into credit score brackets to reduce manual efforts. Therefore, I have used that information to create a machine learning model that can classify the credit score.
 
@@ -26,17 +26,19 @@ Over the years, the company has collected basic banking data and a lot of credit
 
 ---
 
-### Correcting the "modification date" of photos and videos downloaded from Google Photos(https://colab.research.google.com/drive/1x-I-NCxCEEKX8hj4aYxYehmRY3PYjOOV)
+### Correcting the "modification date" of photos and videos downloaded from Google Photos using Python
 
 Google has ended the unlimited storage it offered to all universities and educational institutions in the world through Google Workspace for Education accounts. Therefore, we have been forced to backup our files currently saved on the Google cloud. In this case, when we download our data from Google Photos through the Google Takeout platform (https://takeout.google.com) the files come with "creation date" and "modification date" equal to the date and time of the download, which prevents us from maintaining a local order of these files by the actual creation date of the files (photos/videos). The actual "creation date" and "modification date" are contained in a JSON file along with the files. The goal of this project is to read these JSON files to get the date and time of the file creation, then write this information to the downloaded photos and videos themselves.
 
 <img src="images/google-icon.png?raw=true"/>
 
+[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+
 [View code on Colab](https://colab.research.google.com/drive/1E0H8FNkyZWv0UHvog6VzADMOHgVkKlkY)
 
 ---
 
-## Publications
+## Other publications
 
 [Assessing the impact of field-measurement on the design of Spectrum Sensing WSN - IEEE LATINCOM 2023](https://drive.google.com/file/d/182KkbtRE4h7gb2m1Zlg4xuCAcHruUqb9/view?usp=share_link)
 
