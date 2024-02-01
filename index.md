@@ -1,5 +1,4 @@
 ## Projects using Python
---- Selected projects in data science
 
 ---
 
