@@ -1,4 +1,4 @@
-## Projects using Python
+## Data science projects using Python
 
 ---
 
@@ -38,7 +38,7 @@ Google has ended the unlimited storage it offered to all universities and educat
 
 ---
 
-## Publications
+## Other publications
 
 [Assessing the impact of field-measurement on the design of Spectrum Sensing WSN - IEEE LATINCOM 2023](https://drive.google.com/file/d/1UsxhiYQn80BoKXiMMDUPQrDJRtKj-zlg/view?usp=share_link)
 
