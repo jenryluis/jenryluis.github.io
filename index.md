@@ -1,4 +1,4 @@
-## Data science projects
+## Python Projects
 
 ---
 
